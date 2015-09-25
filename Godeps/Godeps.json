@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/christian-blades-cb/zal",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/kortschak/zalgo",
+			"Rev": "8c91a4a457cf5b7abdd741f1ee7f73b68a3a8212"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Rev": "7dbad50ab5b31073856416cdcfeb2796d682f844"
+		}
+	]
+}
